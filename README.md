@@ -16,3 +16,7 @@ The objective of the project is to predict the captions for the input image. The
   
 **BLEU-1 Score:** 0.544
 **BLEU-2 Score:** 0.319
+
+
+
+# Image folder is too big, you can acces it by https://www.kaggle.com/datasets/adityajn105/flickr8k
